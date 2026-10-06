@@ -1,0 +1,5 @@
+﻿# r7 — 含首发目录「去水印」；仍未签名；未上架公开 Release（历史）
+ddb0ecd879d10efa1d0704fdb4bb6f10c636dc6e9d73c0f4755108b97cd53388  Yuanjing-Setup-0.2.2.124-r7-candidate.exe
+
+# r8 — 含热补三档去水印 + LaMa 尺度修复；未签名；私有草稿预备
+a8ff38ad49d5060841827f430c170266d229f9a1938c75929874841957197160  Yuanjing-Setup-0.2.2.124-r8-candidate.exe
